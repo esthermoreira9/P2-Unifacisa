@@ -8,3 +8,5 @@ Repositório com conteúdos da disciplina de Programação 2.
 [2 - Operadores](conteudos/Operadores.md)
 
 [3 - Estruturas Condicionais](conteudos/EstruturasCondicionais.md)
+
+[4 - Estruturas de Repetição](conteudos/EstruturasdeRepeticao.md)
