@@ -10,3 +10,5 @@ Repositório com conteúdos da disciplina de Programação 2.
 [3 - Estruturas Condicionais](conteudos/EstruturasCondicionais.md)
 
 [4 - Estruturas de Repetição](conteudos/EstruturasdeRepeticao.md)
+
+[5 - Como receber dados do teclado (Scanner)](conteudos/Scanner.md)
