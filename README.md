@@ -12,3 +12,5 @@ Repositório com conteúdos da disciplina de Programação 2.
 [4 - Estruturas de Repetição](conteudos/EstruturasdeRepeticao.md)
 
 [5 - Como receber dados do teclado (Scanner)](conteudos/Scanner.md)
+
+[6 - Classes, objetos e construtores](contedos/coc.md)
