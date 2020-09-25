@@ -1,6 +1,8 @@
 package varinstanciaeclasse;
 
 public class Carro {
+	
+// questao do exercicio de classes e objetos
 
 	String nome, marca, cor;
 	int portas;
