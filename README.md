@@ -22,3 +22,5 @@ Repositório com conteúdos da disciplina de Programação 2.
 &nbsp;  &nbsp;  [6.3 - Strings](conteudos/Strings.md)
 
 &nbsp;  &nbsp;  [6.4 - Arrays](conteudos/Arrays.md)
+
+[7 - Reuso](conteudos/reuso.md)
