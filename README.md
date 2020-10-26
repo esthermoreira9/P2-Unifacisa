@@ -24,3 +24,5 @@ Repositório com conteúdos da disciplina de Programação 2.
 &nbsp;  &nbsp;  [6.4 - Arrays](conteudos/Arrays.md)
 
 [7 - Reuso](conteudos/reuso.md)
+
+[8 - Polimorfismo](conteudos/polimorfismo.md)
