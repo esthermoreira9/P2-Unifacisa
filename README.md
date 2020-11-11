@@ -26,3 +26,5 @@ Repositório com conteúdos da disciplina de Programação 2.
 [7 - Reuso](conteudos/reuso.md)
 
 [8 - Polimorfismo](conteudos/polimorfismo.md)
+
+[9 - Interfaces](conteudos/interfaces.md)
