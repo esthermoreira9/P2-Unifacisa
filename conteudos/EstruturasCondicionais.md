@@ -2,7 +2,7 @@
 
 ## If/else if/else
 
-Usamos esses quanod precisamos fazer várias comparações. (Lembrar que se o comando tiver mais de uma linha o uso de chaves é obrigatório)
+Usamos esses quando precisamos fazer várias comparações. (Lembrar que se o comando tiver mais de uma linha o uso de chaves é obrigatório)
 
 ## Switch - case
 
